@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 3D Double Pendulum Simulation",
+  "description": "An interactive 3D simulation of a spherical double pendulum. Adjust parameters like mass, length, and gravity to observe chaotic motion. The simulation uses a discrete time-step approach with constraint satisfaction for stability and accuracy.",
+  "requestFramePermissions": []
+}
